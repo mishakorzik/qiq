@@ -17,7 +17,7 @@ echo -e $b">>>"$w" qiq-proces    :"$g"view system process"$w
 echo -e $b">>>"$w" qiq-smalltext :"$g"create small logo"$w
 echo -e $b">>>"$w" qiq-bigtext   :"$g"create big logo"$w
 echo -e $b">>>"$w" qiq-mysystem  :"$g"view my system"$w
-figlet -f small 'other command' | lolcat -p 1.0
+figlet -f small 'other commands' | lolcat -p 1.0
 echo -e $b">>>"$w" qiq-AllHackingTools :"$g"Install AllHackingTools"$w
 echo -e $b">>>"$w" qiq-FreeProxy      :"$g"Install AllHackingTools"$w
 echo -e $b">>>"$w" qiq-AdminHack      :"$g"Install AllHackingTools"$w
