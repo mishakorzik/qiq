@@ -11,6 +11,7 @@ apt install figlet
 gem install lolcat
 apt install git
 figlet -f small 'updating qiq' | lolcat -p 1.0
+rm -rf AutoUpdateMyTools
 git clone https://github.com/mishakorzik/AutoUpdateMyTools
 cd AutoUpdateMyTools
 bash qiqupdate.sh
