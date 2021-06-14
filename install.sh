@@ -15,6 +15,11 @@ rm -rf LICENSE
 chmod +x *
 cp qiq-help /data/data/com.termux/files/usr/bin/
 cp qiq-version /data/data/com.termux/files/usr/bin/
+cp qiq-author /data/data/com.termux/files/usr/bin/
+cp qiq-install /data/data/com.termux/files/usr/bin/
+cp qiq-remove /data/data/com.termux/files/usr/bin/
+cp qiq-reinstall /data/data/com.termux/files/usr/bin/
+cp qiq-update /data/data/com.termux/files/usr/bin/
 figlet -f big 'Done!!!' | lolcat -p 1.0
 echo -e $b">>>"$w" run command to help qiq: "$g"qiq-help"$w
 sleep 1
