@@ -13,7 +13,8 @@ cd qiq
 rm -rf README.md
 rm -rf LICENSE
 chmod +x *
-cp * /data/data/com.termux/files/usr/bin/
+cp qiq-help /data/data/com.termux/files/usr/bin/
+cp qiq-version /data/data/com.termux/files/usr/bin/
 figlet -f big 'Done!!!' | lolcat -p 1.0
 echo -e $b">>>"$w" run command to help qiq: "$g"qiq-help"$w
 sleep 1
