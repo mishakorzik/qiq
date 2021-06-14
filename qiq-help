@@ -12,6 +12,8 @@ echo -e $b">>>"$w" qiq-author    :"$g"view qiq author"$w
 echo -e $b">>>"$w" qiq-install   :"$g"install packages"$w
 echo -e $b">>>"$w" qiq-remove    :"$g"remove packages"$w
 echo -e $b">>>"$w" qiq-reinstall :"$g"reinstall packages"$w
+figlet -f small 'system command' | lolcat -p 1.0
+echo -e $b">>>"$w" qiq-proces    :"$g"view system process"$w
 figlet -f small 'other command' | lolcat -p 1.0
 echo -e $b">>>"$w" qiq-AllHackingTools :"$g"Install AllHackingTools"$w
 echo -e $b">>>"$w" qiq-FreeProxy      :"$g"Install AllHackingTools"$w
