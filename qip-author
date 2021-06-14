@@ -1,9 +1,1 @@
-g="\033[1;32m"
-r="\033[1;31m"
-b="\033[1;34m"
-w="\033[0m"
-
-echo -e $b">>>"$w" developer: "$g"mishakorzhik"$w
-echo ""
-echo -e $b">>>"$w" Trank for update: "$g"qip"$w
-echo -e $b">>>"$w" Bye bye! Have a nice day!: "$g"qip"$w
+echo Zz0iXDAzM1sxOzMybSIKcj0iXDAzM1sxOzMxbSIKYj0iXDAzM1sxOzM0bSIKdz0iXDAzM1swbSIKCmVjaG8gLWUgJGIiPj4+IiR3IiBkZXZlbG9wZXI6ICIkZyJtaXNoYWtvcnpoaWsiJHcKZWNobyAiIgplY2hvIC1lICRiIj4+PiIkdyIgVHJhbmsgZm9yIHVwZGF0ZTogIiRnInFpcCIkdwplY2hvIC1lICRiIj4+PiIkdyIgQnllIGJ5ZSEgSGF2ZSBhIG5pY2UgZGF5ITogIiRnInFpcCIkdw== | base64 -d | bash
