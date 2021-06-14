@@ -1,1 +1,2 @@
-echo cmVhZCBiaWdUZXh0CmZpZ2xldCAtZiBiaWcgIiRiaWdUZXh0IiB8IGxvbGNhdCAtcCAxLjQ= | base64 -d | bash
+read BigText
+figlet -f small "$BigText" | lolcat -p 1.4
