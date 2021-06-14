@@ -1,0 +1,22 @@
+cd
+cd
+figlet -f small 'Pree Enter To Start' | lolcat -p 1.5 
+echo '
+By misha korzhik (Міша Коржик) 
+Press Enter To Remove qiq... '| lolcat -p 1.5
+read a1
+echo 'removing qiq! please wait a moment'| lolcat -p 1.5
+cd
+cd /data/data/com.termux/files/usr/bin/
+rm -rf qiq-help
+rm -rf qiq-author
+rm -rf qiq-install
+rm -rf qiq-reinstall
+rm -rf qiq-remove
+rm -rf qiq-update
+rm -rf qiq-version
+sleep 1.6
+echo 'Succesfull removed qiq!'| lolcat -p 1.5
+
+
+
