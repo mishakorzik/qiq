@@ -4,10 +4,15 @@ b="\033[1;34m"
 w="\033[0m"
 
 echo -e $b">>>"$w" developer: "$g"mishakorzhik"$w
+cd
+cd
+apt upgrade
 apt install figlet
 gem install lolcat
-figlet -f big 'updating qit' | lolcat -p 1.0
-
-echo ""
-echo -e $b">>>"$w" Trank for update: "$g"qip"$w
-echo -e $b">>>"$w" Bye bye! Have a nice day!: "$g"qip"$w
+apt install git
+figlet -f small 'updating qiq' | lolcat -p 1.0
+git clone https://github.com/mishakorzik/AutoUpdateMyTools
+cd AutoUpdateMyTools
+bash qiqupdate.sh
+echo -e $b">>>"$w" SuccesFull updated!: "$g"qiq"$w
+echo -e $b">>>"$w" Bye bye! Have a nice day!: "$g"qiq"$w
