@@ -1,0 +1,13 @@
+g="\033[1;32m"
+r="\033[1;31m"
+b="\033[1;34m"
+w="\033[0m"
+
+echo -e $b">>>"$w" developer: "$g"mishakorzhik"$w
+apt install figlet
+gem install lolcat
+figlet -f big 'updating qit' | lolcat -p 1.0
+
+echo ""
+echo -e $b">>>"$w" Trank for update: "$g"qip"$w
+echo -e $b">>>"$w" Bye bye! Have a nice day!: "$g"qip"$w

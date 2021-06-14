@@ -1,0 +1,17 @@
+g="\033[1;32m"
+r="\033[1;31m"
+b="\033[1;34m"
+w="\033[0m"
+
+echo -e $b">>>"$w" qip information: "$g"help"$w
+echo ""
+echo -e $b">>>"$w" qip-help      :view more qip info"$w
+echo -e $b">>>"$w" qip-update    :update qip"$w
+echo -e $b">>>"$w" qip-version   :view qip version"$w
+echo -e $b">>>"$w" qip-author    :view qip author"$w
+echo -e $b">>>"$w" qip-install   :install packages"$w
+echo -e $b">>>"$w" qip-remove    :remove packages"$w
+echo -e $b">>>"$w" qip-reinstall :reinstall packages"$w
+echo ""
+echo -e $b">>>"$w" Trank for install: "$g"qip"$w
+echo -e $b">>>"$w" Bye bye! Have a nice day!: "$g"qip"$w
