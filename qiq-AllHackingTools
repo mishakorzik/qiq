@@ -1,0 +1,5 @@
+cd
+cd
+git clone https://github.com/mishakorzik/AllHackingTools
+cd AllHackingTools
+bash Install.sh
