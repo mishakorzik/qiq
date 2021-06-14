@@ -9,6 +9,8 @@ cd
 cd
 apt install figlet
 gem install lolcat
+pkg install neofetch
+apt install neofetch
 cd qiq
 rm -rf README.md
 rm -rf LICENSE
