@@ -3,15 +3,19 @@ r="\033[1;31m"
 b="\033[1;34m"
 w="\033[0m"
 
-echo -e $b">>>"$w" qip information: "$g"help"$w
+echo -e $b">>>"$w" qiq information: "$g"help"$w
 echo ""
-echo -e $b">>>"$w" qip-help      :view more qip info"$w
-echo -e $b">>>"$w" qip-update    :update qip"$w
-echo -e $b">>>"$w" qip-version   :view qip version"$w
-echo -e $b">>>"$w" qip-author    :view qip author"$w
-echo -e $b">>>"$w" qip-install   :install packages"$w
-echo -e $b">>>"$w" qip-remove    :remove packages"$w
-echo -e $b">>>"$w" qip-reinstall :reinstall packages"$w
+echo -e $b">>>"$w" qiq-help      :"$g"view more qiq info"$w
+echo -e $b">>>"$w" qiq-update    :"$g"update qiq"$w
+echo -e $b">>>"$w" qiq-version   :"$g"view qiq version"$w
+echo -e $b">>>"$w" qiq-author    :"$g"view qiq author"$w
+echo -e $b">>>"$w" qiq-install   :"$g"install packages"$w
+echo -e $b">>>"$w" qiq-remove    :"$g"remove packages"$w
+echo -e $b">>>"$w" qiq-reinstall :"$g"reinstall packages"$w
+figlet -f small 'other command' | lolcat -p 1.0
+echo -e $b">>>"$w" qiq-AllHackingTools :"$g"Install AllHackingTools"$w
+echo -e $b">>>"$w" qiq-FreeProxy      :"$g"Install AllHackingTools"$w
+echo -e $b">>>"$w" qiq-AdminHack      :"$g"Install AllHackingTools"$w
 echo ""
-echo -e $b">>>"$w" Trank for install: "$g"qip"$w
-echo -e $b">>>"$w" Bye bye! Have a nice day!: "$g"qip"$w
+echo -e $b">>>"$w" Trank for install: "$g"qiq"$w
+echo -e $b">>>"$w" Bye bye. Have a nice day: "$g"qiq"$w
