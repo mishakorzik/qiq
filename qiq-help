@@ -19,6 +19,9 @@ echo -e $b">>>"$w" qiq-bigtext   :"$g"create big logo"$w
 echo -e $b">>>"$w" qiq-rgb       :"$g"create medium colored logo"$w
 echo -e $b">>>"$w" qiq-rcolor    :"$g"create medium rainbow logo"$w
 echo -e $b">>>"$w" qiq-mysystem  :"$g"view my system"$w
+echo -e $b">>>"$w" qiq-home      :"$g"cd to derictory"$w
+echo -e $b">>>"$w" qiq-usr       :"$g"cd to derictory"$w
+echo -e $b">>>"$w" qiq-bin       :"$g"cd to derictory"$w
 figlet -f small 'other commands' | lolcat -p 1.0
 echo -e $b">>>"$w" qiq-AllHackingTools :"$g"Install AllHackingTools"$w
 echo -e $b">>>"$w" qiq-FreeProxy       :"$g"Install Free-Proxy"$w
