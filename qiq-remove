@@ -3,7 +3,7 @@ r="\033[1;31m"
 b="\033[1;34m"
 w="\033[0m"
 
-echo "Enter module name. To uninstall"
+echo -e $b">>>"$w" Enter module name to: "$g"uninstall"$w
 read qip2
 echo -e $b">>>"$w" One step. To uninstalling: "$g"$qip2"$w
 pkg clean
