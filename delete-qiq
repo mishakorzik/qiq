@@ -29,6 +29,7 @@ rm -rf qiq-rcolor
 rm -rf qiq-home
 rm -rf qiq-bin
 rm -rf qiq-usr
+rm -rf qiq-netstatus
 sleep 1.6
 echo 'Succesfull removed qiq!'| lolcat -p 1.5
 
