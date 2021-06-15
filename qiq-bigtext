@@ -1,2 +1,1 @@
-read BigText
-figlet -f big "$BigText" | lolcat -p 1.4
+figlet -f big | lolcat -p 1.4
