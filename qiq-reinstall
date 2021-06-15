@@ -3,7 +3,7 @@ r="\033[1;31m"
 b="\033[1;34m"
 w="\033[0m"
 
-echo "Enter module name. To reinstall"
+echo -e $b">>>"$w" Enter module name to: "$g"reinstall"$w
 read qip3
 echo -e $b">>>"$w" One step. To reinstalling: "$g"$qip3"$w
 pkg clean
