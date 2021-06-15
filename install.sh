@@ -28,6 +28,7 @@ cp qiq-proces /data/data/com.termux/files/usr/bin/
 cp qiq-bigtext /data/data/com.termux/files/usr/bin/
 cp qiq-smalltext /data/data/com.termux/files/usr/bin/
 cp qiq-mysystem /data/data/com.termux/files/usr/bin/
+cp qiq-rcolor /data/data/com.termux/files/usr/bin/
 figlet -f big 'Done!!!' | lolcat -p 1.0
 echo -e $b">>>"$w" run command to help qiq: "$g"qiq-help"$w
 sleep 1
