@@ -32,7 +32,7 @@
 * `Succesfull installed!`
 
 #### Now everything is ready and you can write new commands!
-## Plus
+## Information
 
 > **One: you can update qiq**
 ###### qiq update command: qiq-update
@@ -42,4 +42,15 @@
 
 > **Three: You can do a lot with qiq**
 ###### Example: qiq-install
+
+---
+
+* `By mishakorzhik`
+* `Tranks for read`
+
+-------
+##### Report bugs for AllHackingTools
+* `misakorzik528@gmail.com` 
+* `miguardzecurity@gmail.com`
+
 
