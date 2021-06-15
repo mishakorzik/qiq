@@ -4,7 +4,7 @@ b="\033[1;34m"
 w="\033[0m"
 
 echo -e $b">>>"$w" developer: "$g"mishakorzhik"$w
-echo -e $b">>>"$w" installing: "$g"qiq = v0.21"$w
+echo -e $b">>>"$w" installing: "$g"qiq = v0.36"$w
 cd
 cd
 apt install figlet
