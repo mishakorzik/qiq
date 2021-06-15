@@ -26,9 +26,9 @@ rm -rf qiq-smalltext
 rm -rf qiq-bigtext
 rm -rf qiq-rgb
 rm -rf qiq-rcolor
-rm -rf home
-rm -rf bin
-rm -rf usr
+rm -rf qiq-home
+rm -rf qiq-bin
+rm -rf qiq-usr
 sleep 1.6
 echo 'Succesfull removed qiq!'| lolcat -p 1.5
 
