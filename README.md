@@ -11,7 +11,7 @@
 
 * `Succesfull installed!`
 
-#### Below is an installation for thermux
+#### Below is an installation for linux
 ## Installing for linux
 
 * `apt install git`
@@ -21,7 +21,7 @@
 
 * `Succesfull installed!`
 
-#### Below is an installation for thermux
+#### Below is an installation for ubuntu
 ## Installing for ubuntu
 
 * `apt-get install git`
