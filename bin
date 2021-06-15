@@ -1,0 +1,10 @@
+g="\033[1;32m"
+r="\033[1;31m"
+b="\033[1;34m"
+w="\033[0m"
+
+cd 
+cd
+cd /data/data/com.termux/files/usr/bin
+echo -e $b">>>"$w" Succes! You directory: "$g"qiq"$w
+echo -e $b">>>"$w" /data/data/com.termux/files/usr/bin "$w
