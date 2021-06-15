@@ -1,2 +1,1 @@
-read SmlText
-figlet -f small "$SmlText" | lolcat -p 1.2
+figlet -f small | lolcat -p 1.2
