@@ -3,12 +3,17 @@ G = '\033[32m'
 C = '\033[36m'
 W = '\033[0m'
 
+g="\033[1;32m"
+r="\033[1;31m"
+b="\033[1;34m"
+w="\033[0m"
+
 from shutil import which
 import time
 import os
 import system
 
-os.system("echo -e $b">>>"$w" Enter module name to: "$g"install"$w")
+print("Enter module name to: install")
 os.system("read msne")
 print(G + '[ ✔ ]' + C + ' Checking Packages...' + W)
 time.sleep(1)
@@ -28,5 +33,4 @@ else:
         pass
 print(G + '[ ✔ ]' + C + ' Succesfull checked! module...' + W)
 time.sleep(0.2)
-os.system("echo -e $b">>>"$w" Succesfull! module: "$g"$msne"$w installed!")
 time.sleep(0.1)
