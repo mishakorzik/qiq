@@ -7,6 +7,7 @@ echo -e $b">>>"$w" developer: "$g"mishakorzhik"$w
 echo -e $b">>>"$w" installing: "$g"qiq = v0.36"$w
 cd
 cd
+pkg install ruby
 apt install figlet
 gem install lolcat
 pkg install neofetch
