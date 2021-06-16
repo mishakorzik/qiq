@@ -5,9 +5,11 @@ W = '\033[0m'
 
 from shutil import which
 import time
+import os
+import system
 
-echo -e $b">>>"$w" Enter module name to: "$g"install"$w
-read msne
+os.system("echo -e $b">>>"$w" Enter module name to: "$g"install"$w")
+os.system("read msne")
 print(G + '[ ✔ ]' + C + ' Checking Packages...' + W)
 time.sleep(1)
 
@@ -26,5 +28,5 @@ else:
         pass
 print(G + '[ ✔ ]' + C + ' Succesfull checked! module...' + W)
 time.sleep(0.2)
-echo -e $b">>>"$w" Succesfull! module: "$g"$msne"$w installed!
+os.system("echo -e $b">>>"$w" Succesfull! module: "$g"$msne"$w installed!")
 time.sleep(0.1)
