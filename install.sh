@@ -35,6 +35,7 @@ cp qiq-home /data/data/com.termux/files/usr/bin/
 cp qiq-usr /data/data/com.termux/files/usr/bin/
 cp qiq-bin /data/data/com.termux/files/usr/bin/
 cp qiq-netstatus /data/data/com.termux/files/usr/bin/
+cp qiq-mcolor /data/data/com.termux/files/usr/bin/
 figlet -f big 'Done!!!' | lolcat -p 1.0
 echo -e $b">>>"$w" run command to help qiq: "$g"qiq-help"$w
 sleep 1
