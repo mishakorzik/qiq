@@ -9,6 +9,7 @@ Press Enter To Remove qiq... '| lolcat -p 1.5
 read a1
 echo 'removing qiq! please wait a moment'| lolcat -p 1.5
 cd
+cd
 cd /data/data/com.termux/files/usr/bin/
 rm -rf qiq-help
 rm -rf qiq-author
@@ -31,6 +32,7 @@ rm -rf qiq-bin
 rm -rf qiq-usr
 rm -rf qiq-netstatus
 rm -rf qiq-mcolor
+rm -rf qiq
 sleep 1.6
 echo 'Succesfull removed qiq!'| lolcat -p 1.5
 
