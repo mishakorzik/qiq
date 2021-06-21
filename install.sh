@@ -24,6 +24,7 @@ cp qiq-remove /data/data/com.termux/files/usr/bin/
 cp qiq-reinstall /data/data/com.termux/files/usr/bin/
 cp qiq-update /data/data/com.termux/files/usr/bin/
 cp delete-qiq /data/data/com.termux/files/usr/bin/
+cp Rootkite-delete-qiq /data/data/com.termux/files/usr/bin/
 cp qiq-AllHackingTools /data/data/com.termux/files/usr/bin/
 cp qiq-proces /data/data/com.termux/files/usr/bin/
 cp qiq-bigtext /data/data/com.termux/files/usr/bin/
@@ -37,6 +38,12 @@ cp qiq-bin /data/data/com.termux/files/usr/bin/
 cp qiq-netstatus /data/data/com.termux/files/usr/bin/
 cp qiq-mcolor /data/data/com.termux/files/usr/bin/
 cp qiq /data/data/com.termux/files/usr/bin/
+cd
+cd
+cd qiq
+cd .fonts
+chmod +x *
+cp * /data/data/com.termux/files/usr/share/figlet/
 figlet -f big 'Done!!!' | lolcat -p 1.0
 echo -e $b">>>"$w" run command to help qiq: "$g"qiq-help"$w
 sleep 1
