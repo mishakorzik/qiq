@@ -30,6 +30,20 @@ rm -rf qiq-netstatus
 rm -rf qiq-mcolor
 rm -rf qiq
 rm -rf delete-qiq
+cd
+cd
+cd /data/data/com.termux/files/usr/share/figlet/
+rm -rf Poison.flf
+rm -rf Puffy.flf
+rm -rf Pagga.tlf
+rm -rf Modular.tlf
+rm -rf Rusto.tlf
+rm -rf Avatar.flf
+rm -rf Bloody.flf
+rm -rf Crazy.flf
+rm -rf Block.flf
+rm -rf Rusto.tlf
+rm -rf Basic.flf
 sleep 1.6
 echo 'Succesfull removed qiq!'| lolcat -p 1.5
 
