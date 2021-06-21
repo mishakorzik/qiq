@@ -40,5 +40,5 @@ cp qiq /data/data/com.termux/files/usr/bin/
 figlet -f big 'Done!!!' | lolcat -p 1.0
 echo -e $b">>>"$w" run command to help qiq: "$g"qiq-help"$w
 sleep 1
-echo -e $b">>>"$w" Trank for installing!: "$g"qip"$w
-echo -e $b">>>"$w" Bye bye! Have a nice day!: "$g"qip"$w
+echo -e $b">>>"$w" Trank for installing!: "$g"qiq"$w
+echo -e $b">>>"$w" Bye bye! Have a nice day!: "$g"qiq"$w
