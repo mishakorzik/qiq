@@ -38,6 +38,7 @@ cp qiq-bin /data/data/com.termux/files/usr/bin/
 cp qiq-netstatus /data/data/com.termux/files/usr/bin/
 cp qiq-mcolor /data/data/com.termux/files/usr/bin/
 cp qiq /data/data/com.termux/files/usr/bin/
+cp qiq-install-py /data/data/com.termux/files/usr/bin/
 cd
 cd
 cd qiq
