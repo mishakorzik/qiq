@@ -1,0 +1,14 @@
+g="\033[1;32m"
+r="\033[1;31m"
+b="\033[1;34m"
+w="\033[0m"
+
+echo -e $b">>>"$w" Enter module name to: "$g"install"$w
+read qip1
+echo -e $b">>>"$w" One step. To installing: "$g"$qip1"$w
+pip install "$qip1"
+echo -e $b">>>"$w" Two step. To installing: "$g"$qip1"$w
+pip2 install "$qip1"
+echo -e $b">>>"$w" Three step. To installing: "$g"$qip1"$w
+pip3 install "$qip1"
+echo -e $b">>>"$w" Succesfull installed module: "$g"$qip1"$w
