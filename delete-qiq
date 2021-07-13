@@ -33,6 +33,7 @@ rm -rf qiq-usr
 rm -rf qiq-netstatus
 rm -rf qiq-mcolor
 rm -rf qiq
+rm -rf qiq-dispatcher 
 cd
 cd
 cd /data/data/com.termux/files/usr/share/figlet/
