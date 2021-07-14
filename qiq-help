@@ -22,6 +22,7 @@ echo -e $b">>>"$w" qiq-mysystem  :"$g"view my system"$w
 echo -e $b">>>"$w" qiq-home      :"$g"cd to derictory"$w
 echo -e $b">>>"$w" qiq-usr       :"$g"cd to derictory"$w
 echo -e $b">>>"$w" qiq-bin       :"$g"cd to derictory"$w
+echo -e $b">>>"$w" qiq-dispatcher:"$g"Process Explorer"$w
 figlet -f Rusto Figlet New Commands | lolcat -p 1.0
 echo -e $b">>>"$w" figlet -f Puffy   :"$g"no description"$w
 echo -e $b">>>"$w" figlet -f Bloody  :"$g"no description"$w
