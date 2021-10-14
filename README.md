@@ -50,7 +50,6 @@
 
 -------
 ##### Report bugs for AllHackingTools
-* `misakorzik528@gmail.com` 
 * `miguardzecurity@gmail.com`
 
 
