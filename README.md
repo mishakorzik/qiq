@@ -49,7 +49,7 @@
 * `Tranks for read`
 
 -------
-##### Report bugs for AllHackingTools
+##### Report bugs for qiq
 * `miguardzecurity@gmail.com`
 
 
