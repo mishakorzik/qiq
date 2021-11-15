@@ -1,0 +1,47 @@
+g="\033[1;32m"
+r="\033[1;31m"
+b="\033[1;34m"
+w="\033[0m"
+
+echo -e $b">>>"$w" qiq information: "$g"help"$w
+echo ""
+echo -e $b">>>"$w" qiq-help       :"$g"view more qiq info"$w
+echo -e $b">>>"$w" qiq-update     :"$g"update qiq"$w
+echo -e $b">>>"$w" qiq-version    :"$g"view qiq version"$w
+echo -e $b">>>"$w" qiq-author     :"$g"view qiq author"$w
+echo -e $b">>>"$w" qiq-install    :"$g"install packages"$w
+echo -e $b">>>"$w" qiq-install-py :"$g"install python packages"$w
+echo -e $b">>>"$w" qiq-remove     :"$g"remove packages"$w
+echo -e $b">>>"$w" qiq-reinstall  :"$g"reinstall packages"$w
+echo -e $b">>>"$w" qiq-directory  :"$g"create directory"$w
+figlet -f Rusto System Commands | lolcat -p 1.0
+echo -e $b">>>"$w" qiq-proces     :"$g"view system process"$w
+echo -e $b">>>"$w" qiq-smalltext  :"$g"create small logo"$w
+echo -e $b">>>"$w" qiq-bigtext    :"$g"create big logo"$w
+echo -e $b">>>"$w" qiq-rgb        :"$g"create medium colored logo"$w
+echo -e $b">>>"$w" qiq-rcolor     :"$g"create medium rainbow logo"$w
+echo -e $b">>>"$w" qiq-mysystem   :"$g"view my system"$w
+echo -e $b">>>"$w" qiq-home       :"$g"cd to derictory"$w
+echo -e $b">>>"$w" qiq-usr        :"$g"cd to derictory"$w
+echo -e $b">>>"$w" qiq-bin        :"$g"cd to derictory"$w
+echo -e $b">>>"$w" qiq-dispatcher:"$g"Process Explorer"$w
+figlet -f Rusto Figlet New Commands | lolcat -p 1.0
+echo -e $b">>>"$w" figlet -f Puffy   :"$g"no description"$w
+echo -e $b">>>"$w" figlet -f Bloody  :"$g"no description"$w
+echo -e $b">>>"$w" figlet -f Poison  :"$g"no description"$w
+echo -e $b">>>"$w" figlet -f Block   :"$g"no description"$w
+echo -e $b">>>"$w" figlet -f Avatar  :"$g"no description"$w
+echo -e $b">>>"$w" figlet -f Crazy   :"$g"no description"$w
+echo -e $b">>>"$w" figlet -f Modular :"$g"no description"$w
+echo -e $b">>>"$w" figlet -f Basic   :"$g"no description"$w
+echo -e $b">>>"$w" figlet -f Rusto   :"$g"no description"$w
+echo -e $b">>>"$w" figlet -f Pagga   :"$g"no description"$w
+figlet -f Rusto Other Commands | lolcat -p 1.0
+echo -e $b">>>"$w" qiq-packets    :"$g"view all packages"$w
+echo -e $b">>>"$w" qiq-manager    :"$g"file manager"$w
+echo -e $b">>>"$w" qiq-ping       :"$g"ping you host"$w
+echo -e $b">>>"$w" qiq-cpu        :"$g"view cpu info"$w
+echo -e $b">>>"$w" qiq-mem        :"$g"view memory info"$w
+echo ""
+echo -e $b">>>"$w" Trank for install: "$g"qiq"$w
+echo -e $b">>>"$w" Bye bye. Have a nice day: "$g"qiq"$w
