@@ -1,0 +1,9 @@
+g="\033[1;32m"
+r="\033[1;31m"
+b="\033[1;34m"
+w="\033[0m"
+
+echo -e $b">>>"$w" qip version: "$g"0.86"$w
+echo ""
+echo -e $b">>>"$w" Trank for install: "$g"qip"$w
+echo -e $b">>>"$w" Bye bye! Have a nice day!: "$g"qip"$w
