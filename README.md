@@ -50,6 +50,6 @@
 
 -------
 ##### Report bugs for qiq
-* `miguardzecurity@gmail.com`
+* `developer.mishakorzhik@gmail.com`
 
 
