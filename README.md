@@ -11,20 +11,10 @@
 
 * `Succesfull installed!`
 
-#### Below is an installation for linux
+#### Below is an installation for ubuntu, debian
 ## Installing for linux
 
 * `apt install git`
-* `git clone https://github.com/mishakorzik/qiq`
-* `cd qiq`
-* `bash install.sh`
-
-* `Succesfull installed!`
-
-#### Below is an installation for ubuntu
-## Installing for ubuntu
-
-* `apt-get install git`
 * `git clone https://github.com/mishakorzik/qiq`
 * `cd qiq`
 * `bash install.sh`
