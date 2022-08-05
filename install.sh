@@ -7,12 +7,12 @@ echo -e $b">>>"$w" developer: "$g"mishakorzhik"$w
 echo -e $b">>>"$w" installing: "$g"qiq = v1.22"$w
 cd
 cd
-pkg install ruby
+apt install ruby
 apt install figlet
 gem install lolcat
 pkg install neofetch
 apt install neofetch
-pkg install mc
+apt install mc
 cd qiq
 rm -rf README.md
 rm -rf LICENSE
