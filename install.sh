@@ -11,6 +11,8 @@ apt install ruby
 apt install figlet
 gem install lolcat
 pkg install neofetch
+pkg install htop
+apt install htop
 apt install neofetch
 apt install mc
 cd qiq
