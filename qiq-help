@@ -39,6 +39,7 @@ echo -e $b">>>"$w" figlet -f Pagga   :"$g"no description"$w
 figlet -f Rusto Other Commands | lolcat -p 1.0
 echo -e $b">>>"$w" qiq-packets    :"$g"view all packages"$w
 echo -e $b">>>"$w" qiq-manager    :"$g"file manager"$w
+echo -e $b">>>"$w" qiq-host-info  :"$g"host information"$w
 echo -e $b">>>"$w" qiq-ping       :"$g"ping you host"$w
 echo -e $b">>>"$w" qiq-cpu        :"$g"view cpu info"$w
 echo -e $b">>>"$w" qiq-mem        :"$g"view memory info"$w
