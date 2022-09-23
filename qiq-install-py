@@ -6,7 +6,7 @@ w="\033[0m"
 echo -e $b">>>"$w" Enter module name to: "$g"install"$w
 read qip1
 echo -e $b">>>"$w" One step. To installing: "$g"$qip1"$w
-pip install "$qip1"
+python -m pip install "$qip1"
 echo -e $b">>>"$w" Two step. To installing: "$g"$qip1"$w
 python2 -m pip install "$qip1"
 echo -e $b">>>"$w" Three step. To installing: "$g"$qip1"$w
